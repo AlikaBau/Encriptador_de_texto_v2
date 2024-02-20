@@ -1,0 +1,11 @@
+Este solo es un mensaje para avisar que lo que hace este encriptador es
+deformar el texto de manera que no es legible y volver a encontrar cual es el texto original
+
+tiene una alerta que dice que si le pones minusculas y sin acento  va a funcionar bien pero si le pones mayusculas
+y acentos puede ser que no funcione del todo bien 
+
+pero si no quieres ver la sugerencia puedes quitarla en el boton de cerrar
+
+Tambien es una pag responsive y se puede reseter dandole click en el boton del logo de Alura 
+
+Saludos 
